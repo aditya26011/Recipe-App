@@ -20,5 +20,7 @@ Also provide with random recipe to try out.
 
 ![recipe-app_03](https://user-images.githubusercontent.com/75205751/183455952-11d9aacc-fd62-446c-bbc3-176b86d721c7.png)
 
+4. Get a random recipe:
 
+![recipe-app_04](https://user-images.githubusercontent.com/75205751/183457073-3c03bdd2-730d-41ed-9e29-3c0a80f7fb05.png)
 
